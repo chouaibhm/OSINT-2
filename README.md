@@ -1,7 +1,7 @@
 # OSINT Sources
 
 
-# Telegram dedicated Search Engines 
+# Telegram OSINT  
 
 Search based on keyword, within public chats, groups, latest posts. 
 
@@ -39,3 +39,11 @@ https://combot.org/telegram/top/chats/?lang=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8
 
 # Find groups / secret or temporary links 
 Alternative way - find groups or secret links/chats shared internally >> "t.me/" 
+
+
+
+# Linkedin OSINT 
+
+# Varify Linkedin by Email 
+
+https://www.linkedin.com/sales/gmail/profile/viewByEmail/target@domain.com
