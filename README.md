@@ -41,9 +41,3 @@ https://combot.org/telegram/top/chats/?lang=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8
 Alternative way - find groups or secret links/chats shared internally >> "t.me/" 
 
 
-
-# Linkedin OSINT 
-
-# Varify Linkedin by Email 
-
-https://www.linkedin.com/sales/gmail/profile/viewByEmail/target@domain.com
