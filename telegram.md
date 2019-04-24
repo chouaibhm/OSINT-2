@@ -1,8 +1,5 @@
-# OSINT Sources
-
-
 # Telegram OSINT  
-
+# SEARCH ENGINES 
 Search based on keyword, within public chats, groups, latest posts. 
 
 Google Telegram CSE 
