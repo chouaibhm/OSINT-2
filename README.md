@@ -33,5 +33,9 @@ Other Telegram Channel/Group Indexers
 https://combot.org/telegram/top/chats/?lang=%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9 
 
 
+# Google - Posts / mentions from around any social media 
+"intext:https://t.me/" or + keyword [association]
+
+
 # Find groups / secret or temporary links 
 Alternative way - find groups or secret links/chats shared internally >> "t.me/" 
