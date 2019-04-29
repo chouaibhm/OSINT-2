@@ -5,7 +5,7 @@ Search based on keyword, within public chats, groups, latest posts.
 Google Telegram CSE 
 https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg 
 
-RU tgstat 
+RU tgstat  - nice for searching latest posts / mentions / potential leaks / etc 
 https://tgstat.ru/search 
 
 lyzem
