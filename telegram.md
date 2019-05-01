@@ -1,15 +1,22 @@
-# Telegram OSINT  
-# SEARCH ENGINES 
-Search based on keyword, within public chats, groups, latest posts. 
+# Telegram dedicated Search Engines 
+
+# Find posts of any user within public groups 
+nice for searching latest posts / mentions / potential leaks / etc 
 
 Google Telegram CSE 
 https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg 
 
-RU tgstat  - nice for searching latest posts / mentions / potential leaks / etc 
+RU tgstat   
 https://tgstat.ru/search 
 
 lyzem
 https://lyzem.com/
+
+Buzz
+https://search.buzz.im/ 
+
+
+# Find keyword based groups/bots/channels 
 
 TelegramChannels 
 https://telegramchannels.me/ 
@@ -20,10 +27,7 @@ https://tlgrm.eu/channels
 tdirectory
 https://tdirectory.me/
 
-https://search.buzz.im/ 
-
-
-
+# Telegram Sources / Communities 
 Reddit Telegram Community 
 https://www.reddit.com/r/TelegramChannels/ 
 
