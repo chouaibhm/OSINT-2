@@ -12,5 +12,6 @@ inurl:tid | thread | topic | viewtopic | blog intext:leaked + db
 or any other intext \ topic you're interested in finding most recet mentions or posts of 
 * set the time frame to last hour or 24 hours - depends on what you need 
 * some results will be FP, as can be expected. but most will relate to different forums speaking about 
-keywords such as leaked + db = indicated leaked database, if you use more than 2 keywords, chances are to get less false positives. 
+keywords such as leaked + db = indicated leaked database
+* if you use more than 2 keywords, chances are to get less false positives. 
 
