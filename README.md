@@ -34,3 +34,11 @@ http://rr.reuser.biz/
 
 https://osintframework.com/
 
+https://www.osintessentials.com/
+
+
+
+
+# Guides to Investigators 
+
+https://osintpost.com/open-source-investigation-guides/ 
