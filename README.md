@@ -61,7 +61,9 @@ https://www.sheet2site.com/api/?key=1wPiel22iUfKNsiNMx1qjUTMwOTwfBjzpdwHDubt3Dks
 
 
 # OSINT Addons - RU / EN / CH
+Firefox 
 
+https://addons.mozilla.org/en-US/firefox/addon/osint-browser-extension/?src=search
 
 
 
