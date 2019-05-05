@@ -1,5 +1,7 @@
 # OSINT 
 
+# Mostly sources will focus on people search.etc 
+
 Different sources/ tools and technqiues to gather osint targeted or global feeds. [still in dev]
 
 [Telegram OSINT](https://github.com/ex16x41/osint/blob/master/telegram.md)
@@ -53,6 +55,13 @@ https://www.toddington.com/resources/
 https://drive.google.com/drive/folders/1CBcemFdorkAqJ-Sthsh67OVHgH4FQF05
 
 https://osint.link/
+
+https://www.sheet2site.com/api/?key=1wPiel22iUfKNsiNMx1qjUTMwOTwfBjzpdwHDubt3Dks
+
+
+
+# OSINT Addons - RU / EN / CH
+
 
 
 
