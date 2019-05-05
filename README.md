@@ -85,6 +85,8 @@ http://www.automatingosint.com/blog/
 
 http://osintdaily.blogspot.com/
 
+https://www.osintcity.com/blog/
+
 
 
 # Guides to Investigators 
@@ -92,6 +94,8 @@ http://osintdaily.blogspot.com/
 https://osintpost.com/open-source-investigation-guides/ 
 
 https://start.me/p/aLBELX/tutorials 
+
+
 
 # Accounts to follow - OSINT 
 
