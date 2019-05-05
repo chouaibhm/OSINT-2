@@ -16,3 +16,5 @@ https://300m.com/osint/
 
 https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit# 
 
+https://start.me/p/m6XQ08/osint 
+
