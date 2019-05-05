@@ -1,6 +1,6 @@
 # osint sources 
 
-different sources/ tools and technqiues to gather osint targeted or global feeds. [still in dev]
+Different sources/ tools and technqiues to gather osint targeted or global feeds. [still in dev]
 
 [Telegram OSINT](https://github.com/ex16x41/osint/blob/master/telegram.md)
 
@@ -8,4 +8,9 @@ different sources/ tools and technqiues to gather osint targeted or global feeds
 
 [Forums Indexing](https://github.com/ex16x41/osint/blob/master/forums.md)
 
+# OSINT Lists - Toolbox 
+
+https://start.me/p/rxeRqr/aml-toolbox 
+https://300m.com/osint/ 
+https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit# 
 
