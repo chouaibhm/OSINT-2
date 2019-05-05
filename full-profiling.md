@@ -1,9 +1,14 @@
-# Full profiling guide - step by step tools based on infomration to find 
+# Full profiling guide 
+step by step tools based on infomration to find 
 
-# Target name 
+# Target full name 
 Tools:
 ~~~
-Google: target name + "profile" keyword association 
+1.Google: target name 
+if no accounts/results use "profile" keyword association 
+
+2.Scrape data of existing accounts
+- 
 ~~~
 
 
