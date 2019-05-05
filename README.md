@@ -75,6 +75,18 @@ https://tgraph.io/Camyj-detalnyj-manual-po-OSINT-v-runete-12-07-3
 http://hrazvedka.ru/otkryvaya-sunduki/otkryvaya-sunduki.html
 
 
+# Chinese 
+
+https://start.me/p/GE7JQb/osint-cn?locale=zh
+
+https://medium.com/@iyouport/osint-44c79fd18e1a 
+
+https://www.chainnews.com/articles/540595230204.htm
+
+
+
+
+
 # OSINT Addons - RU / EN / CH
 Firefox 
 
@@ -85,6 +97,8 @@ https://addons.mozilla.org/en-US/firefox/addon/osint-browser-extension/?src=sear
 # OSINT Communities / Blog / Feeds 
 
 https://old.reddit.com/r/OSINT/
+
+https://iyouport.wixsite.com/iyouport/blog
 
 https://osintcurio.us/
 
