@@ -66,6 +66,7 @@ https://www.andreafortuna.org/2017/03/20/open-source-intelligence-tools-for-soci
 
 http://osint.uwstart.nl/
 
+
 # Russian 
 
 https://osint-voksanaev.livejournal.com/192579.html 
@@ -84,8 +85,6 @@ https://start.me/p/GE7JQb/osint-cn?locale=zh
 https://medium.com/@iyouport/osint-44c79fd18e1a 
 
 https://www.chainnews.com/articles/540595230204.htm
-
-
 
 
 
