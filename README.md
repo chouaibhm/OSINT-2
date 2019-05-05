@@ -36,8 +36,14 @@ https://osintframework.com/
 
 https://www.osintessentials.com/
 
+https://www.uk-osint.net/favorites.html
 
 
+
+
+# OSINT Communities 
+
+https://old.reddit.com/r/OSINT/
 
 # Guides to Investigators 
 
