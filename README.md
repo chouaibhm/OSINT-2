@@ -64,6 +64,12 @@ https://medium.com/osint/the-osint-toolkit-3b9233d1cdf9
 
 https://www.andreafortuna.org/2017/03/20/open-source-intelligence-tools-for-social-media-my-own-list/
 
+# Russian 
+
+https://osint-voksanaev.livejournal.com/192579.html 
+
+
+
 
 # OSINT Addons - RU / EN / CH
 Firefox 
@@ -114,6 +120,8 @@ https://twitter.com/x0rz/status/1085187310558146560
 https://twitter.com/tenacioustek/status/1044322919877365761
 
 https://www.tripwire.com/state-of-security/security-awareness/burgling-from-an-osint-point-of-view/
+
+https://www.bellingcat.com/resources/case-studies/2015/08/19/yachtspotting/ 
 
 
 
