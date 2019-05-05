@@ -52,6 +52,8 @@ https://www.toddington.com/resources/
 
 https://drive.google.com/drive/folders/1CBcemFdorkAqJ-Sthsh67OVHgH4FQF05
 
+https://osint.link/
+
 
 
 # OSINT Communities 
