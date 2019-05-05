@@ -67,9 +67,23 @@ https://addons.mozilla.org/en-US/firefox/addon/osint-browser-extension/?src=sear
 
 
 
-# OSINT Communities 
+# OSINT Communities / Blog / Feeds 
 
 https://old.reddit.com/r/OSINT/
+
+https://osintcurio.us/
+
+https://inteltechniques.com/blog/category/osint/
+
+https://medium.com/week-in-osint
+
+https://www.bellingcat.com/
+
+https://jakecreps.com/
+
+http://www.automatingosint.com/blog/
+
+http://osintdaily.blogspot.com/
 
 
 
@@ -79,4 +93,17 @@ https://osintpost.com/open-source-investigation-guides/
 
 https://start.me/p/aLBELX/tutorials 
 
+# Accounts to follow - OSINT 
+
+https://twitter.com/GRC_Ninja
+
+https://twitter.com/IntelTechniques
+
+https://twitter.com/jms_dot_py
+
+https://twitter.com/jnordine
+
+https://twitter.com/dutch_osintguy
+
+https://twitter.com/Ginsberg5150
 
