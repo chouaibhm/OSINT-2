@@ -127,6 +127,8 @@ https://www.tripwire.com/state-of-security/security-awareness/burgling-from-an-o
 
 https://www.bellingcat.com/resources/case-studies/2015/08/19/yachtspotting/ 
 
+https://yemen.bellingcat.com/methodology/workflow
+
 
 
 # Accounts to follow - OSINT 
