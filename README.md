@@ -58,6 +58,9 @@ https://osint.link/
 
 https://www.sheet2site.com/api/?key=1wPiel22iUfKNsiNMx1qjUTMwOTwfBjzpdwHDubt3Dks
 
+https://www.peerlyst.com/posts/my-osint-toolbox-netsecml
+
+https://medium.com/osint/the-osint-toolkit-3b9233d1cdf9
 
 
 # OSINT Addons - RU / EN / CH
@@ -87,6 +90,9 @@ http://osintdaily.blogspot.com/
 
 https://www.osintcity.com/blog/
 
+https://ciberpatrulla.com/blog/
+
+
 
 
 # Guides to Investigators 
@@ -94,6 +100,10 @@ https://www.osintcity.com/blog/
 https://osintpost.com/open-source-investigation-guides/ 
 
 https://start.me/p/aLBELX/tutorials 
+
+https://www.echosec.net/osint-strategy/
+
+https://tisiphone.net/2016/10/13/101-ways-i-screwed-up-making-a-fake-identity/
 
 
 
