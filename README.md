@@ -72,6 +72,7 @@ http://uplink.motd.org/2017/04/osint-tools-and-service/
 
 https://tgraph.io/Camyj-detalnyj-manual-po-OSINT-v-runete-12-07-3
 
+http://hrazvedka.ru/otkryvaya-sunduki/otkryvaya-sunduki.html
 
 
 # OSINT Addons - RU / EN / CH
