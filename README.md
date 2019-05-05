@@ -1,4 +1,4 @@
-# osint sources 
+# OSINT 
 
 Different sources/ tools and technqiues to gather osint targeted or global feeds. [still in dev]
 
