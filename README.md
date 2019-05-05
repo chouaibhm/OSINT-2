@@ -64,6 +64,8 @@ https://medium.com/osint/the-osint-toolkit-3b9233d1cdf9
 
 https://www.andreafortuna.org/2017/03/20/open-source-intelligence-tools-for-social-media-my-own-list/
 
+http://osint.uwstart.nl/
+
 # Russian 
 
 https://osint-voksanaev.livejournal.com/192579.html 
