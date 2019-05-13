@@ -1,6 +1,6 @@
 # Telegram dedicated Search Engines 
 
-# Find posts of any user within public groups 
+# Find posts of any user within public indexed groups 
 nice for searching latest posts / mentions / potential leaks / etc 
 
 Google Telegram CSE 
