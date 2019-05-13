@@ -150,6 +150,8 @@ https://yemen.bellingcat.com/methodology/workflow
 
 https://twitter.com/GRC_Ninja
 
+https://twitter.com/Obs_IL
+
 https://twitter.com/IntelTechniques
 
 https://twitter.com/jms_dot_py
