@@ -162,3 +162,9 @@ https://twitter.com/dutch_osintguy
 
 https://twitter.com/Ginsberg5150
 
+
+# People Search Engines / DB (Russian) 
+
+https://facebot.ru/ 
+
+https://poiski-people.ru - unvarified reliability of source 
