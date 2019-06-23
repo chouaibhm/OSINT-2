@@ -19,4 +19,4 @@ keywords such as leaked + db = indicated leaked database
 
 # Google Dork Automation 
 
-https://jakecreps.com/2019/06/20/pagodo/ 
+https://github.com/opsdisk/pagodo
