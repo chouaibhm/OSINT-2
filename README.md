@@ -146,7 +146,7 @@ https://yemen.bellingcat.com/methodology/workflow
 
 
 
-# Accounts to follow - OSINT 
+# Feeds to follow - OSINT 
 
 https://twitter.com/GRC_Ninja
 
