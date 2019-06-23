@@ -17,3 +17,6 @@ keywords such as leaked + db = indicated leaked database
 * Use any language = monitor russian / chinese posts/ forums based on keywords and their associations 
 * Use different search engines = different results, different sources indexed / archived 
 
+# Google Dork Automation 
+
+https://jakecreps.com/2019/06/20/pagodo/ 
