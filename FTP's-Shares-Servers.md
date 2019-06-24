@@ -34,3 +34,29 @@ allinurl: drive.google.com/open?id=
 intitle:index.of.dropbox  (e.g. intitle:index.of.dropbox allintext:leak) 
 
 site:dl.dropbox.com
+
+
+# File Hosting 
+https://mega.nz/
+
+https://www.mediafire.com/
+
+http://www.4shared.com/
+
+https://sourceforge.net
+
+http://www.sharedigger.com/
+
+http://www.searchshared.com/  - all checkboxs
+
+http://file-search.info/
+
+http://www.alluc.ee/
+
+http://filecatch.com/
+
+http://www.uvrx.com/
+
+http://www.gammafiles.com/
+
+http://ddlsearch.free.fr/
