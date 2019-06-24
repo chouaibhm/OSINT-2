@@ -23,3 +23,14 @@ http://www.filesearching.com/
 
 http://archie.icm.edu.pl/archie_eng.html
 
+# Google Drive / Docs
+
+intitle:- Google Docs ‘keyword’
+
+allinurl: drive.google.com/open?id=
+
+# Dropbox
+
+intitle:index.of.dropbox  (e.g. intitle:index.of.dropbox allintext:leak) 
+
+site:dl.dropbox.com
