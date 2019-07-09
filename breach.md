@@ -4,6 +4,8 @@
 # telegram 
 https://t.me/LeakCheck - telegram bot - provide email addr = output email:pwd (not full pwd)
 
+@HowToFind_bot - email/pwd and other sources 
+
 # .onion 
 
 http://dumpedlqezarfife.onion/ - provide email / name format (first.last) / username = output of emails with included keyword 
@@ -44,6 +46,8 @@ https://haveibeenpwned.com/Passwords
 
 https://hacked-emails.com/ 
 
+https://leakedsource.ru/ 
+
 # Leaked Databases (donwload) 
 
 https://databases.today/search.php 
@@ -57,6 +61,8 @@ https://ashley.cynic.al/ - ashly madison leak check
 # within dirs 
 intitle:index.of leak | db | data | dump (modify search for last 
 
+http://palined.com/search/ - open directory search  
+
 # global 
-site:*.* ext:txt intext:
+site:*.* ext:txt intitle:db | dump intext:password
 
