@@ -53,6 +53,8 @@ https://leakedsource.ru/
 
 https://monitor.firefox.com/
 
+https://www.onlinehashcrack.com/tools-check-email-compromised-leaked.php 
+
 # Leaked Databases (donwload) 
 
 https://databases.today/search.php 
