@@ -17,6 +17,8 @@ https://ghostproject.fr/ - put email - no full pwd - premium acc for full pwd wi
 
 https://leak-lookup.com 
 
+https://webresolver.nl/tools/leaked_database - full pwd but limited db sources 
+
 https://psbdmp.ws// - pastebin dump global search (many fp.. archived pages - remoevd links on most)
 
 https://my.vericlouds.com/ - provide email - pwd will be emailed to provided email 
