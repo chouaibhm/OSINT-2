@@ -35,6 +35,8 @@ Others
 
 https://github.com/Acceis/leakScraper/wiki/leakScraper 
 
+https://github.com/imuledx/dataleaks
+
 https://github.com/davidtavarez/pwndb 
 
 https://github.com/secworld/Breach-Miner
