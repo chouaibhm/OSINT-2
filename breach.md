@@ -24,6 +24,7 @@ https://breachalarm.com/ - same as one above
 
 https://ashley.cynic.al/ - ashly madison leak check 
 
+
 # git 
 
 my fave: WhatBreach 
@@ -59,9 +60,12 @@ https://www.onlinehashcrack.com/tools-check-email-compromised-leaked.php
 
 https://dehashed.com/ 
 
-# Leaked Databases (donwload) 
+# Leaked Databases (donwload/view) 
 
 https://databases.today/search.php 
+
+https://publicdbhost.dmca.gripe/random/
+ 
 
 # google dorks 
 
