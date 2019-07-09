@@ -1,5 +1,6 @@
 # breach sources/db/leaks - ppl 
 
+commercial products/solutions will not be included - only free/ registration/captcha required ones. 
 
 # telegram 
 https://t.me/LeakCheck - telegram bot - provide email addr = output email:pwd (not full pwd)
