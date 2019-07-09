@@ -16,3 +16,9 @@ https://ghostproject.fr/ - put email - no full pwd - premium acc for full pwd wi
 # git 
 https://github.com/Acceis/leakScraper/wiki/leakScraper 
 
+
+
+# haveIbeenPwnd + alternatives 
+
+https://haveibeenpwned.com/ 
+
