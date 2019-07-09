@@ -72,12 +72,12 @@ https://publicdbhost.dmca.gripe/random/
 # index potential db / files / leaks 
 
 # within dirs 
-intitle:index.of leak | db | data | dump (modify search for last 24hr..etc)
+intitle:index.of leak | db | dump (modify search for last 24hr..etc)
 
 http://palined.com/search/ - open directory search  
 
-# global 
-site:*.* ext:txt intitle:db dump 
+# other 
+site:*.* ext:txt intitle:db dump ..etc
 
 
 # execute password resue attacks  
