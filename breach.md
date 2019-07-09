@@ -14,11 +14,19 @@ https://ghostproject.fr/ - put email - no full pwd - premium acc for full pwd wi
 
 
 # git 
+
+my fave: WhatBreach 
+https://github.com/Ekultek/WhatBreach 
+
+Others 
 https://github.com/Acceis/leakScraper/wiki/leakScraper 
 
+https://github.com/davidtavarez/pwndb 
 
 
 # haveIbeenPwnd + alternatives 
 
 https://haveibeenpwned.com/ 
+
+https://hacked-emails.com/ 
 
