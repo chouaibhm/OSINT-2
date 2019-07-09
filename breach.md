@@ -22,6 +22,8 @@ https://my.vericlouds.com/ - provide email - pwd will be emailed to provided ema
 
 https://breachalarm.com/ - same as one above 
 
+https://ashley.cynic.al/ - ashly madison leak check 
+
 # git 
 
 my fave: WhatBreach 
@@ -55,21 +57,21 @@ https://monitor.firefox.com/
 
 https://www.onlinehashcrack.com/tools-check-email-compromised-leaked.php 
 
+https://dehashed.com/ 
+
 # Leaked Databases (donwload) 
 
 https://databases.today/search.php 
-
-https://ashley.cynic.al/ - ashly madison leak check 
 
 # google dorks 
 
 # index potential db / files / leaks 
 
 # within dirs 
-intitle:index.of leak | db | data | dump (modify search for last 
+intitle:index.of leak | db | data | dump (modify search for last 24hr..etc)
 
 http://palined.com/search/ - open directory search  
 
 # global 
-site:*.* ext:txt intitle:db | dump intext:password
+site:*.* ext:txt intitle:db dump 
 
