@@ -18,6 +18,8 @@ https://leak-lookup.com
 
 https://psbdmp.ws// - pastebin dump global search (many fp.. archived pages - remoevd links on most)
 
+https://my.vericlouds.com/ - provide email - pwd will be emailed to provided email 
+
 
 # git 
 
