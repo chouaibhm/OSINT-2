@@ -24,6 +24,7 @@ https://breachalarm.com/ - same as one above
 
 https://ashley.cynic.al/ - ashly madison leak check 
 
+https://vigilante.pw/ - only db info - but updated
 
 # git 
 
