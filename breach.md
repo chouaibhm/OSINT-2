@@ -79,3 +79,7 @@ http://palined.com/search/ - open directory search
 # global 
 site:*.* ext:txt intitle:db dump 
 
+
+# execute password resue attacks  
+
+https://github.com/D4Vinci/Cr3dOv3r 
