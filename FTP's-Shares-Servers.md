@@ -62,5 +62,25 @@ http://www.gammafiles.com/
 http://ddlsearch.free.fr/
 
 
-# Site.me 
+# start.me 
+
+site:*.start.me keyword | leak | sources | OSINT.. etc 
+
+# Potential exposed leaked data / comapny exposed portals shares.etc (project management frameworks) 
+
+# Trello - index boards / public / users / files / info 
+site:trello.com inurl:/b/ intext:OSINT 
+
+# Jira - comapny portals using jira with option to register and view internal data 
+
+site:jira.*.* intext:Sign up 
+can be costumized for specific comapny name like jira.target.com or just subdomain enum 
+
+create acc >  view available data / files / users / etc. 
+
+
+
+
+
+
 
