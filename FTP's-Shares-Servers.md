@@ -78,7 +78,9 @@ can be costumized for specific comapny name like jira.target.com or just subdoma
 
 create acc >  view available data / files / users / etc. 
 
+# slack - find invite links / channels 
 
+link:https://*.slack.com/join/shared_invite/ 
 
 
 
