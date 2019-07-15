@@ -12,6 +12,8 @@ https://t.me/LeakCheck - telegram bot - provide email addr = output email:pwd (n
 http://dumpedlqezarfife.onion/ - provide email / name format (first.last) / username = output of emails with included keyword 
 email:pwd (full - no ****) 
 
+http://pwndb2am4tzkvold.onion - same idea as one above - show full pwd 
+
 # web 
 https://ghostproject.fr/ - put email - no full pwd - premium acc for full pwd without *** 
 
