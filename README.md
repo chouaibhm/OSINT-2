@@ -1,5 +1,5 @@
 # Disclaimer
-* Most of the focus will be on people / companies 
+* Most of the focus is on targeted research (people/ organizations) 
 * collection of my favorites & my own stuff and techniques 
 * still in dev ;^)
 
