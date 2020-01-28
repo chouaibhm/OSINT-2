@@ -82,7 +82,8 @@ https://www.chainnews.com/articles/540595230204.htm
 
 
 # OSINT Extensions 
-* Firefox 
+
+# Firefox 
 
 Godnota 
 
@@ -109,7 +110,7 @@ RevEYE
 https://addons.mozilla.org/en-US/firefox/addon/reveye-ris/
 
 
-* Chrome
+# Chrome
 
 RevEYE 
 
