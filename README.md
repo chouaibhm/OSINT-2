@@ -1,4 +1,7 @@
-[still in dev]
+# Disclaimer
+* Most of the focus will be on people and org osint 
+* collection of my favorites & my own stuff and techniques for osint 
+* still in dev ;^)
 
 # OSINT Lists Compilations
 
