@@ -1,5 +1,3 @@
-# OSINT 
-
 [still in dev]
 
 # OSINT Lists Compilations
