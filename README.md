@@ -171,17 +171,9 @@ https://yemen.bellingcat.com/methodology/workflow
 
 
 
-# Feeds to follow - OSINT 
+# Cool people to follow ;^)
 
-https://twitter.com/GRC_Ninja
-
-https://twitter.com/Obs_IL
-
-https://twitter.com/IntelTechniques
-
-https://twitter.com/jms_dot_py
-
-https://twitter.com/jnordine
+https://twitter.com/Sector035
 
 https://twitter.com/dutch_osintguy
 
