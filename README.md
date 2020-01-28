@@ -1,5 +1,5 @@
 # Disclaimer
-* Most of the focus will be on people and org osint tools / research
+* Most of the focus will be on people / companies 
 * collection of my favorites & my own stuff and techniques 
 * still in dev ;^)
 
