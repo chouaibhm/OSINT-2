@@ -99,6 +99,17 @@ Image search
 
 https://addons.mozilla.org/en-US/firefox/addon/image-search-options/
 
+Wayback
+
+https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/
+
+
+* Chrome
+
+RevEYE 
+
+https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf
+
 # OSINT Communities / Blog / Feeds 
 
 https://old.reddit.com/r/OSINT/
