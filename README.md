@@ -1,8 +1,6 @@
 # OSINT 
 
-# Mostly sources will focus on people search.etc 
-
-Different sources/ tools and technqiues to gather osint targeted or global feeds. [still in dev]
+[still in dev]
 
 # OSINT Lists Compilations
 
@@ -85,7 +83,7 @@ https://www.chainnews.com/articles/540595230204.htm
 # OSINT Addons - RU / EN / CH
 Firefox 
 
-https://addons.mozilla.org/en-US/firefox/addon/osint-browser-extension/?src=search
+to update new 
 
 
 
