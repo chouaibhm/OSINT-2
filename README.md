@@ -81,11 +81,23 @@ https://www.chainnews.com/articles/540595230204.htm
 
 
 # OSINT Addons - RU / EN / CH
-Firefox 
+* Firefox 
 
-to update new 
+Godnota 
 
+https://addons.mozilla.org/ru/firefox/addon/gotanda/ 
 
+OSINT 
+
+https://addons.mozilla.org/ru/firefox/addon/osint/ 
+
+session-Sync 
+
+https://addons.mozilla.org/en-US/firefox/addon/session-sync/
+
+Image search
+
+https://addons.mozilla.org/en-US/firefox/addon/image-search-options/
 
 # OSINT Communities / Blog / Feeds 
 
