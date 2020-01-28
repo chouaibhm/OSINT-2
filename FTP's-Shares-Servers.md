@@ -1,4 +1,10 @@
 # FTP indexers 
+
+# English 
+
+# Russian
+
+# Chinese 
 http://www.searchftps.net/
 
 http://www.mmnt.ru/int/
