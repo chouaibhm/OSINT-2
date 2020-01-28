@@ -161,4 +161,4 @@ https://twitter.com/Ginsberg5150
 
 https://facebot.ru/ 
 
-https://poiski-people.ru - unvarified reliability of source 
+https://poiski-people.ru - unverified reliability of source 
