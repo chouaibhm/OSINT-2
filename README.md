@@ -104,6 +104,10 @@ Wayback
 
 https://addons.mozilla.org/en-US/firefox/addon/wayback-machine_new/
 
+RevEYE 
+
+https://addons.mozilla.org/en-US/firefox/addon/reveye-ris/
+
 
 * Chrome
 
