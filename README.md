@@ -81,7 +81,7 @@ https://www.chainnews.com/articles/540595230204.htm
 
 
 
-# OSINT Addons - RU / EN / CH
+# OSINT Extensions 
 * Firefox 
 
 Godnota 
