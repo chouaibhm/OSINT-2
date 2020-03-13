@@ -2,7 +2,7 @@
 <Task version="1.2" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
   <RegistrationInfo>
     <Date>2020-03-11T18:53:28</Date>
-    <Author>user</Author>
+    <Author>usr</Author>
   </RegistrationInfo>
   <Triggers>
     <CalendarTrigger>
@@ -20,7 +20,7 @@
   </Triggers>
   <Principals>
     <Principal id="Author">
-      <UserId>dom\user</UserId>
+      <UserId>dom\usr</UserId>
       <LogonType>InteractiveToken</LogonType>
       <RunLevel>LeastPrivilege</RunLevel>
     </Principal>
